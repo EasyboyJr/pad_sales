@@ -7,4 +7,5 @@
 .price {
     justify-self: flex-end;
     border: 2px solid blue;
+    width: 40px;
 }
