@@ -7,5 +7,6 @@
 .price {
     align-self: flex-end;
     border: 2px solid blue;
-    width: 40px;
+    width: 150px;
+    height: 150px;
 }
